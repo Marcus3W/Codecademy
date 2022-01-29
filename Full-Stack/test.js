@@ -20,6 +20,7 @@ const tipCalculator = (quality, total) => {
 }
 
 
+
 // Uncomment the line below when you're ready to try out your function
 console.log(tipCalculator('good', 100)) //should return 20
 
