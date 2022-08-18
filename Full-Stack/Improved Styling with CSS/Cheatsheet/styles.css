@@ -1,0 +1,30 @@
+* {
+    font-family: Barlow, sans-serif;
+}
+
+h1 {
+    color: #56633E;
+}
+h2 {
+    color: #4C6320;
+    font-weight: normal;
+}
+
+h1, h2 {
+    text-align: center;
+}
+table {
+    border: 1px solid #4C6320;
+    margin: 0 auto;
+}
+td {
+
+}
+thead td {
+    text-align: center;
+    background-color: #ADE349;
+}
+.code {
+    font-family: monospace;
+    background-color: #C9E890;
+}
